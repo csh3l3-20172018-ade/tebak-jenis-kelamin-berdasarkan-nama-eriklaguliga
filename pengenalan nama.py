@@ -46,3 +46,10 @@ elif(prob_laki<prob_cewek):
 print(prob_laki)
 print(prob_cewek)
 
+#hasil
+#fikri = perempuan
+#adit = perempuan
+#dio = laki
+#dari algoritma ini saya bisa menyimpulkan bahwa pengenalan atau acuan ini lebih condong terhadap perempuan dibanding laki-laki
+#acuan tersebut saya menilai kurang akurat dan masih kurang ketika dijadikan standar untuk pengenalan jenis kelamin
+#dapat disimpulkan bahwa dengan cara mengecek jenis kelamin dengan acuan nama itu kurang tepat
