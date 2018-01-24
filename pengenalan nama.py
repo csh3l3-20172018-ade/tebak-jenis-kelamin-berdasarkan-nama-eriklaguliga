@@ -43,3 +43,11 @@ elif(prob_laki<prob_cewek):
 
 print(prob_laki)
 print(prob_cewek)
+
+#erik = cewek
+#suparman = cewek
+#dio = laki
+
+#jadi kseimpulannya bahwa pengecekan jenisa kelamin cenderung ke perempuan
+#pengenalan nama untuk identifikasi jenis kelamin belum bisa menjadi patokan
+
